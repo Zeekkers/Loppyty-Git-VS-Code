@@ -19,3 +19,18 @@ Lisätty conflict-testi -haarassa.
 
 ## Projekti on Git-harjoitus
 Muokattiin mainissä
+
+
+
+## Mitä tein
+- Loin uuden GitHub-repositorion ja kloonasin sen VS Codeen  
+- Lisäsin README.md-tiedoston ja tein vähintään 5 committia  
+- Loin uuden haaran ja tein siihen muutoksia  
+- Yhdistin haaran mainiin (merge)  
+- Aiheutin ja ratkaisin merge-konfliktin VS Codessa  
+- Käytin push ja pull -toimintoja onnistuneesti  (Pull) tulee tehtyä tämän commitin jälkeen. 
+
+## Mitä opin
+- Gitin perustoiminnot (commit, push, pull) VS Coden käyttöliittymässä  
+- Haarojen (branch) luonti ja yhdistäminen ilman terminaalia  
+- Miten merge-konflikti syntyy ja ratkaistaan Merge Editorissa  
