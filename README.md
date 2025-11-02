@@ -13,5 +13,9 @@ Harjoitella Gitin ja GitHubin käyttöä VS Coden käyttöliittymän kautta ilma
 ## Uusi haara: feaure-readme
 
 
+## Projekti on harjoitus
+Lisätty conflict-testi -haarassa.
+
+
 ## Projekti on Git-harjoitus
 Muokattiin mainissä
