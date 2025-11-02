@@ -9,3 +9,5 @@ Harjoitella Gitin ja GitHubin käyttöä VS Coden käyttöliittymän kautta ilma
 ## Vaiheet
 1. Repo ja kloonaus
 2. README ja commitit
+
+## Uusi haara: feaure-readme
