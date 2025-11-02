@@ -37,3 +37,5 @@ Tämä rivi lisättiin GitHubista.
 
 ## Toinen Merge-conflcti
 Tein toisen merge conflictin ja jouduin vähän kikkailemaan sen kanssa.
+
+Muutos tehtiin pr branchin kautta
