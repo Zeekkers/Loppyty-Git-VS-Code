@@ -1,2 +1,7 @@
 # Loppyty-Git-VS-Code
 Harjoitella Gitin ja GitHubin käyttöä VS Coden käyttöliittymän kautta ilman terminaalikomentoja.
+
+## Harjoituksen tavoite
+- Oppia käyttämään Gitin perustoimintoja (repo, commit, push/pull)
+- Harjoitella haarojen (branch) luontia ja yhdistämistä
+- Ratkaista merge-konflikti VS Codessa
