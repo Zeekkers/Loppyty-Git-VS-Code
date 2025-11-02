@@ -19,5 +19,4 @@ Lisätty conflict-testi -haarassa.
 
 ## Projekti on Git-harjoitus
 Muokattiin mainissä
-
 Tämä rivi lisättiin GitHubista.
