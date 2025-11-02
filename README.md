@@ -19,6 +19,8 @@ Lisätty conflict-testi -haarassa.
 
 ## Projekti on Git-harjoitus
 Muokattiin mainissä
+Tämä rivi lisättiin GitHubista.
+
 
 ## Mitä tein
 - Loin uuden GitHub-repositorion ja kloonasin sen VS Codeen  
