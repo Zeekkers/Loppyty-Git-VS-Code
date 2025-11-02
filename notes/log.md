@@ -1,0 +1,2 @@
+# Lokimerkinnät
+-  Tehtävä aloitettu.
